@@ -1,0 +1,14 @@
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\bin\Debug\net9.0\SocialMedia.exe
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\bin\Debug\net9.0\SocialMedia.deps.json
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\bin\Debug\net9.0\SocialMedia.runtimeconfig.json
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\bin\Debug\net9.0\SocialMedia.dll
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\bin\Debug\net9.0\SocialMedia.pdb
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.AssemblyInfoInputs.cache
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.AssemblyInfo.cs
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.csproj.CoreCompileInputs.cache
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.dll
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\refint\SocialMedia.dll
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.pdb
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\SocialMedia.genruntimeconfig.cache
+c:\Users\IDO123\Desktop\coding\C#\VSCodeProjects\GamaCyber\SocialMediaProject\SocialMedia\obj\Debug\net9.0\ref\SocialMedia.dll

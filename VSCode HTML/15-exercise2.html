@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <link rel="stylesheet" href="css/default.css">
+        <script src="tools/indice.js"></script>
+        <script>var current_class="exercicio2";</script>
+        <script src="highlight/highlight.pack.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>List of Exercises # 2</title>
+        <link href="https://fonts.googleapis.com/css?family=Poppins:400,700" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+
+    <body>
+
+       <div class="page-container">
+           <header>
+               <div class="logo-area">
+                   <img src="img/logo_js.png" alt="logo javascript">
+               </div>
+               <div class="course-title">
+                   <h1>Javascript Course</h1>
+                   <h2>תוכנית ממר"ם</h2>
+               </div>
+           </header>
+
+           <main dir="rtl">
+              
+            <h3>רשימת תרגילים # 2</h3>
+            <br>
+
+
+            
+            <p>
+                1) כתבו פונקציה הממירה מעלות צלזיוס לפרנהייט. 
+                השתמשו בזה כדי להמיר את הטמפרטורות הבאות:
+            </p>
+
+            <p>הנוסחא להמרת טמפרטורות היא: </p>
+            <p dir="ltr" style="text-align: center;">
+                F = (9 * C / 5) + 32
+            </p>
+            <div dir="ltr" style="text-align: left;">
+                <div class="caixa_outer blueborder inline">
+                    <div id="celsius_1">
+                        38
+                    </div>
+                </div>
+                <sup>o</sup>C = 
+                <div class="caixa_outer yellowborder inline">
+                    <div id="fahr_1">
+                        הציגו את התוצאה כאן
+                    </div>
+                </div>
+                <sup>o</sup>F
+                <br>
+    
+                <div class="caixa_outer blueborder inline">
+                    <div id="celsius_2">
+                        24
+                    </div>
+                </div>
+                <sup>o</sup>C = 
+                <div class="caixa_outer yellowborder inline">
+                    <div id="fahr_2">
+                        הציגו את התוצאה כאן
+                    </div>
+                </div>
+                <sup>o</sup>F
+    
+                <br>
+    
+                <div class="caixa_outer blueborder inline">
+                    <div id="celsius_3">
+                        -1
+                    </div>
+                </div>
+                <sup>o</sup>C = 
+                <div class="caixa_outer yellowborder inline">
+                    <div id="fahr_3">
+                        הציגו את התוצאה כאן
+                    </div>
+                </div>
+                <sup>o</sup>F
+    
+                <br>
+            </div>
+            
+
+            <p>
+                2) המערך למטה הוא תוצאות של סטודנטים בתחרות.
+                המערך מסודר מהציון הנמוך לגבוה. 
+            </p>
+
+            <pre dir="ltr">
+                <code class="javascript">
+    var classification = [ "John Hill" , "Mary Jane", "Gary Vee", "Paricia Mills", "Helen Hall", "Paul Green" ]; 
+                </code>
+            </pre>
+
+            <div class="caixa_outer inline">
+                <div id="best_students">
+                    הציגו את שמות שלושת הסטודנטים הכי טובים כאן
+                </div>
+            </div>
+
+            <br>
+
+            <p>
+                3) בהתחשב באובייקט הבא:
+            </p>
+
+            <pre dir="ltr">
+                <code class="javascript">
+    var course = {
+        'title': "Learn to Code in Python 3",
+        'categories': ['programming', 'technology', 'python'],
+        '5_stars_reviews': 420,
+        '4_stars_reviews': 80,
+        '3_stars_reviews': 33,
+        '2_stars_reviews': 20,
+        '1_stars_reviews': 4
+    }
+                </code>
+            </pre>
+
+            <p>
+                א) הציגו את כותרת הקורס בתיבה למטה:  
+            </p>
+            <div dir="ltr" style="text-align: left;">
+                Course title: 
+                <div class="caixa_outer inline blueborder">
+                    <div id="course_title">
+                        הציגו את כותרת הקורס כאן
+                    </div>
+                </div>
+            </div>
+           
+
+            <p>
+                ב) הקטגוריה הראשית היא האלמנט הראשון במערך categories. הציגו אותה בתיבה למטה:
+            </p>
+            
+            <div dir="ltr" style="text-align: left;">
+                Main Category:
+                <div class="caixa_outer inline blueborder">
+                    <div id="main_category">
+                        הציגו את הקטגוריה הראשית כאן
+                    </div>
+                </div>
+            </div>
+           
+
+            <p>
+            ג) תיצרו מתודה שתחשב את אחוז ההביקורות של 5 כוכבים מתוך סך הביקורות, מעוגל למספר שלם, 
+            והציגו את התוצאה למטה:
+            </p>                    
+
+            <div dir="ltr" style="text-align: left;">
+                Percentage of 5 stars reviews: 
+                <div class="caixa_outer inline blueborder">
+                    <div id="reviews_5_stars">
+                        הציגו את תוצאת האחוזים כאן (לדוגמא: 78%)
+                    </div>
+                </div>
+            </div>
+           
+            
+               
+            <br>
+            
+            <p>
+                ד) ראו את רשימת הקניות הבאה:
+            </p>
+
+            <pre dir="ltr">
+                <code class="javascript">
+
+    var shoppingList = ["Milk", "Butter", "Juice", "Bread", "Beer", "Rice", "Potatoes", "Chocolate"]; 
+
+                </code>
+            </pre>
+
+            <p>בצעו את הפעולות הבאות כדי לשנות את הרשימה:</p>
+
+            <ul>
+                <li>קחו את המוצר האחרון ומקמו אותו בראש הרשימה.</li>
+                <li>צרפו לסוף הרשימה עוד שני מוצרים: Cheese ו Eggs</li>
+            </ul>
+
+            <p>הציגו את הרשימה החדשה לconsole.</p>
+
+
+           </main>
+
+        </div>
+        <script src="ex2.js"></script>
+    </body>
+
+</html>

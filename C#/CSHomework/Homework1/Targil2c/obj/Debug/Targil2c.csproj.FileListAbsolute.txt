@@ -1,0 +1,8 @@
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\bin\Debug\Targil2c.exe.config
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\bin\Debug\Targil2c.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\bin\Debug\Targil2c.pdb
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\obj\Debug\Targil2c.csproj.AssemblyReference.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\obj\Debug\Targil2c.csproj.SuggestedBindingRedirects.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\obj\Debug\Targil2c.csproj.CoreCompileInputs.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\obj\Debug\Targil2c.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\Homework1\Targil2c\obj\Debug\Targil2c.pdb

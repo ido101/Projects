@@ -1,0 +1,3 @@
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\ClassHW4\ClassHW4\obj\Debug\ClassHW4.csproj.AssemblyReference.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\ClassHW4\ClassHW4\obj\Debug\ClassHW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\ClassHW4\ClassHW4\obj\Debug\ClassHW4.csproj.CoreCompileInputs.cache

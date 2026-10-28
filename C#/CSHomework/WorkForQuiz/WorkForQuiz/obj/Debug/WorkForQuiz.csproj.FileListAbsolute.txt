@@ -1,0 +1,10 @@
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQuiz.csproj.AssemblyReference.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQuiz.csproj.CoreCompileInputs.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\bin\Debug\WorkForQuiz.exe.config
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\bin\Debug\WorkForQuiz.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\bin\Debug\WorkForQuiz.pdb
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\bin\Debug\Unit4.dll
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQ.8EFB4E7F.Up2Date
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQuiz.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQuiz.pdb
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\WorkForQuiz\WorkForQuiz\obj\Debug\WorkForQuiz.exe.config

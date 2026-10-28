@@ -1,0 +1,8 @@
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\bin\Debug\test.exe.config
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\bin\Debug\test.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\bin\Debug\test.pdb
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\obj\Debug\test.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\test\test\obj\Debug\test.pdb

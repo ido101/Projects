@@ -1,0 +1,10 @@
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\bin\Debug\HW6.exe.config
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\bin\Debug\HW6.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\bin\Debug\HW6.pdb
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\bin\Debug\Unit4.dll
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.csproj.AssemblyReference.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.csproj.SuggestedBindingRedirects.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.csproj.CopyComplete
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.exe
+C:\Users\IDO123\Desktop\coding\C#\CSHomework\HW6\HW6\obj\Debug\HW6.pdb
